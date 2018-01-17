@@ -1,6 +1,11 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const { logger } = require('./util')
+
+// DB
+const db = require('./db');
+
+// Utilities
+const { logger } = require('./util');
 
 const app = express();
 
