@@ -35,7 +35,7 @@
     "axios": "^0.17.1",
     "bcrypt": "^1.0.3",
     "express": "^4.16.2",
-    "mongoose": "^4.13.9",
+    "mongoose": "^5.0.0",
     "node": "^9.2.0",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
